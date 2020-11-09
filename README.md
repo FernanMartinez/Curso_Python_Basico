@@ -1,1 +1,1 @@
-# Curso Basico de Python LNBR
+# Curso Basico de Python
