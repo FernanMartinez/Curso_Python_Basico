@@ -2,13 +2,13 @@
 
 ## Descrição
 
-Este curso nasceu como una iniciativa voluntaria de um grupo de alunos de mestrado, doutorado e pesquisadores de diferentes áreas de pesquisa do Laboratório Nacional de Biorrenováveis (LNBR -CNPEM) para aplicar a linguagem Python 3.8 nas diferentes áreas de atuação, as quais incluem automatização de processos, análise de dados, modelagem de sistemas industriais e biológicos, otimização, dentre outros.
+Este curso nasceu como uma iniciativa voluntária de um grupo de alunos de mestrado, doutorado e pesquisadores de diferentes áreas de pesquisa do Laboratório Nacional de Biorrenováveis (LNBR -CNPEM) para aplicar a linguagem Python 3.8 nas diferentes áreas de atuação, as quais incluem automatização de processos, análise de dados, modelagem de sistemas industriais e biológicos, otimização, dentre outros.
 
 ---
 
 ## Objetivos
 
-- Apresentar os conceitos básicos da linguagem Python 3.8, assim como sua utilização características, limitações e vantagens ao momento de ser aplicados. Os conceitos básicos incluem: ambientes de desenvolvimento, tipos de dados, containers nativos e não nativos e suas propriedades, operadores de relação, operadores aritméticos, operadores lógicos, loops, funções (criadas com `def`), funções anônimas, funções `built-in`, performance, entre outros aspectos;
+- Apresentar os conceitos básicos da linguagem Python 3.8, assim como sua utilização, características, limitações e vantagens. Os conceitos básicos incluem: ambientes de desenvolvimento, tipos de dados, containers nativos e não nativos e suas propriedades, operadores de relação, operadores aritméticos, operadores lógicos, loops, funções (criadas com `def`), funções anônimas, funções `built-in`, performance, entre outros aspectos;
 
 - Apresentar as bibliotecas mais utilizadas no ecossistema Python. Sua utilização, propriedades, vantagens em relação a objetos nativos e performance.
 
