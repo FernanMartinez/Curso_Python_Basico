@@ -193,7 +193,11 @@ Para o correto funcionamento se recomenda a instalação do [Ecossistema Anacond
 ## Meta
 
 Fernan D. Martinez
+
 fernanmaji@gmail.com
+
 fernanmartinez.j@gmail.com
+
 [LinkTree](https://linktr.ee/fernan.martinez)
+
 [GitHub](https://github.com/FernanMartinez)
