@@ -10,7 +10,9 @@ Este curso nasceu como uma iniciativa voluntária de um grupo de alunos de mestr
 
 - Apresentar os conceitos básicos da linguagem Python 3.8, assim como sua utilização, características, limitações e vantagens. Os conceitos básicos incluem: ambientes de desenvolvimento, tipos de dados, containers nativos e não nativos e suas propriedades, operadores de relação, operadores aritméticos, operadores lógicos, loops, funções (criadas com `def`), funções anônimas, funções `built-in`, performance, entre outros aspectos;
 
-- Apresentar as bibliotecas mais utilizadas no ecossistema Python. Sua utilização, propriedades, vantagens em relação a objetos nativos e performance.
+- Apresentar as bibliotecas mais utilizadas no ecossistema Python. Sua utilização, propriedades, vantagens em relação a objetos nativos e performance;
+
+- Aplicar os conceitos da linguagens nas atividades desenvolvidas nas diferentes áreas de atuação do grupo.
 
 ---
 
@@ -180,7 +182,7 @@ Este curso nasceu como uma iniciativa voluntária de um grupo de alunos de mestr
 
 ## Ambiente de desenvolvimentos
 
-Para o correto funcionamento se recomenda a instalação do [Ecossistema Anaconda instalado](https://www.anaconda.com/) ou um ambiente virtual com:
+Para o funcionamento adequado se recomenda a instalação do [Ecossistema Anaconda](https://www.anaconda.com/) ou um ambiente virtual com:
 
 - Python 3.7 ou superior
 - JupyterNotebook ou JupyterLab
