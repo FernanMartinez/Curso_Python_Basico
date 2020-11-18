@@ -1,8 +1,8 @@
-# Curso Basico de Python 3.8
+# Curso Básico de Python 3.8
 
 ## Descrição
 
-Este curso nasceu como uma iniciativa voluntária de um grupo de alunos de mestrado, doutorado e pesquisadores de diferentes áreas de pesquisa do Laboratório Nacional de Biorrenováveis (LNBR -CNPEM) para aplicar a linguagem Python 3.8 nas diferentes áreas de atuação, as quais incluem automatização de processos, análise de dados, modelagem de sistemas industriais e biológicos, otimização, dentre outros.
+Este curso nasceu como uma iniciativa voluntária de um grupo de mestrandos, doutorandos e pesquisadores de diferentes áreas do Laboratório Nacional de Biorrenováveis (LNBR -CNPEM) para aplicar a linguagem Python 3.8 nas diferentes áreas de atuação, as quais incluem automatização de processos, análise de dados, modelagem de sistemas industriais e biológicos, otimização, dentre outros.
 
 ---
 
@@ -12,7 +12,7 @@ Este curso nasceu como uma iniciativa voluntária de um grupo de alunos de mestr
 
 - Apresentar as bibliotecas mais utilizadas no ecossistema Python. Sua utilização, propriedades, vantagens em relação a objetos nativos e performance;
 
-- Aplicar os conceitos da linguagens nas atividades desenvolvidas nas diferentes áreas de atuação do grupo.
+- Aplicar os conceitos da linguagen nas atividades desenvolvidas nas diferentes áreas de atuação do grupo.
 
 ---
 
@@ -58,9 +58,9 @@ Este curso nasceu como uma iniciativa voluntária de um grupo de alunos de mestr
 1. Operadores lógicos e formatação de strings
 
    - Formatação de string
-     - Metodo 1. Utilizando operador `%`
-     - Metodo 2. Utilizando `.format()`
-     - Metodo 3. Utilizanod `f""`
+     - Método 1. Utilizando operador `%`
+     - Método 2. Utilizando `.format()`
+     - Método 3. Utilizando `f""`
    - Operadores lógicos (`and`, `or`, `not`)
 
 1. Funções
@@ -174,7 +174,7 @@ Este curso nasceu como uma iniciativa voluntária de um grupo de alunos de mestr
    - Arrays gráficos
      - Método 1
      - Método 2. Usando Subplots
-   - Gráficos com multiplos eixos verticais
+   - Gráficos com múltiplos eixos verticais
    - Salvando figuras
    - Gráficos interativos
 
