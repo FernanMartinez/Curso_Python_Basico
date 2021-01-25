@@ -163,7 +163,7 @@ Este curso nasceu como uma iniciativa voluntária de um grupo de mestrandos, dou
      - excell
      - html
 
-1. Matplotlib (**Em desenvolvimento**)
+1. Matplotlib
    - Instalação é importação da biblioteca
    - Histogramas
    - Chart plot
@@ -177,6 +177,21 @@ Este curso nasceu como uma iniciativa voluntária de um grupo de mestrandos, dou
    - Gráficos com múltiplos eixos verticais
    - Salvando figuras
    - Gráficos interativos
+
+1. Interactividade com Python (**Em desenvolvimento**)
+   - Comandos mágicos em Jupyter-notebook
+   - Aspectos básicos de interatividade com ipwidgets
+     - Instalando a biblioteca
+     - Importando a biblioteca
+     - Método `interact`
+     - Método `interactive`
+     - Atualização continua desativada
+   - Explorando arquivos usando interactividade
+   - Analisando dados de um DataFrame Pandas
+   - Interatividade em gráficos
+     - Matplotlib
+     - Pyplot
+     - Figuras 3D
 
 ---
 
