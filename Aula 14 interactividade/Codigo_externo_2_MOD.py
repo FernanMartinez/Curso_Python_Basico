@@ -1,3 +1,4 @@
+%matplotlib notebook
 import numpy as np
 import matplotlib.pyplot as plt
 y = np.random.rand(1000)
